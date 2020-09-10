@@ -151,7 +151,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1.bitOperation.cpp" />
+    <ClCompile Include="2.sortAarry.cpp" />
     <ClCompile Include="leetcode.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="function_name_of_code.h" />
+    <ClInclude Include="pch.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
