@@ -3,5 +3,11 @@
 
 
 int main() {
-	
+	unordered_map<int, int> map;
+
+	map[1] = 1;
+
+	map[2]--;
+
+	if (map.find(3) == map.end()) cout << "3不存在";
 }

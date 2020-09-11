@@ -153,6 +153,7 @@
   <ItemGroup>
     <ClCompile Include="1.bitOperation.cpp" />
     <ClCompile Include="2.sortAarry.cpp" />
+    <ClCompile Include="3.prefix_doublePointer_hashInPlace.cpp" />
     <ClCompile Include="leetcode.cpp" />
   </ItemGroup>
   <ItemGroup>

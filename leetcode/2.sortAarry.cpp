@@ -40,6 +40,7 @@ vector<int> sortArray(vector<int>& nums) {
 
 
 //µ›πÈπÈ≤¢≈≈–Ú
+/*
 vector<int> sortArray(vector<int>& nums) {
 	if (nums.size() <= 1) return nums;
 
@@ -98,10 +99,10 @@ void merge(vector<int>& nums, int lo, int mid, int hi) {
 		nums[t++] = right[r];
 	}
 }
-
+*/
 
 //∂—≈≈–Ú
-
+/*
 vector<int> sortArray(vector<int>& nums) {
 	heapify(nums);
 	int len = nums.size();
@@ -130,10 +131,10 @@ void down(vector<int>& nums, int rank, int length) {
 	}
 
 }
-
 void heapify(vector<int>& nums) {
 	int len = nums.size();
 	for (int i = len / 2; i >= 0; i--) {
 		down(nums, i, len);
 	}
 }
+*/

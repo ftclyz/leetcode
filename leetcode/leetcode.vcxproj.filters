@@ -24,6 +24,9 @@
     <ClCompile Include="2.sortAarry.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3.prefix_doublePointer_hashInPlace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
